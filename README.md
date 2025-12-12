@@ -37,11 +37,22 @@ This code implements the **Cooperative Sheaf Protocol**:
     * If data fails $\rightarrow$ Waste ($H^1$).
 4.  **Auditor:** Automated repair logic applied to the Waste Stream.
 
-### 🔗 Citations
+## 📝 Citation
 
-* **Paper:** [arXiv:Pending] (The Shape of Agreement: Topological Foundations for Cooperative Logistics)
-* **Author:** Shawn Nevalainen, PhD (Independent Researcher)
-* **Affiliation:** Black River Systems
+If you use this protocol in your research, please cite as:
+
+> **Nevalainen, S. (2025).** *The Shape of Agreement: Topological Foundations for Cooperative Logistics.* Black River Systems Technical Report.
+
+**BibTeX:**
+
+```bibtex
+@techreport{nevalainen2025shape,
+  title={The Shape of Agreement: Topological Foundations for Cooperative Logistics},
+  author={Nevalainen, Shawn},
+  year={2025},
+  institution={Black River Systems},
+  month={December}
+}
 
 ---
 *Status: Experimental / Proof of Concept.*
