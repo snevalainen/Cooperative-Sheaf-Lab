@@ -40,7 +40,7 @@ This code implements the **Cooperative Sheaf Protocol**:
 ### 🔗 Citations
 
 * **Paper:** [arXiv:Pending] (The Shape of Agreement: Topological Foundations for Cooperative Logistics)
-* **Author:** Sean Neverline, PhD (Independent Researcher)
+* **Author:** Shawn Nevalainen, PhD (Independent Researcher)
 * **Affiliation:** Black River Systems
 
 ---
