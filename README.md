@@ -4,7 +4,7 @@
 
 This repository contains the reference implementation (Volume II) for the protocol defined in the monograph *The Shape of Agreement*. It provides the "Stitching Layer" necessary to transform heterogeneous supply chain data into a coherent Simplicial Complex using Large Language Models as topological restriction maps.
 
-### 📂 Repository Structure
+## 📂 Repository Structure
 
 * **`orchestrator.py`**: The backend daemon that performs the "Observe-Orient-Decide-Act" loop. It manages the `H0` (Consensus) and `H1` (Waste) streams.
 * **`app.py`**: The "One-Drop" Dashboard. A Streamlit-based interface for visualizing the Sheaf Cohomology of incoming data packets.
@@ -21,7 +21,7 @@ This is the complete, timestamped draft of the paper submitted for academic revi
 * **PDF File:** [`Cohomology-Engine-Paper-Draft.pdf`](./Cohomology-Engine-Paper-Draft.pdf)
 * **Source Files:** [`Cohomology-Engine-Paper-Source.zip`](./Cohomology-Engine-Paper-Source.zip)
 
-### 🚀 Getting Started
+## 🚀 Getting Started
 
 To run the "Shadow Lab" locally:
 
@@ -38,7 +38,7 @@ To run the "Shadow Lab" locally:
     streamlit run app.py
     ```
 
-### 🧠 Theoretical Basis
+## 🧠 Theoretical Basis
 
 This code implements the **Cooperative Sheaf Protocol**:
 1.  **Input:** Unstructured text/CSV from a supply chain node.
