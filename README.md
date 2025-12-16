@@ -10,6 +10,23 @@ This repository contains the reference implementation (Volume II) for the protoc
 * **`app.py`**: The "One-Drop" Dashboard. A Streamlit-based interface for visualizing the Sheaf Cohomology of incoming data packets.
 * **`requirements.txt`**: Dependency manifest.
 
+## 📚 Technical Documentation & Provenance
+
+This repository houses not only the core implementation of the Cohomology Engine but also the foundational academic paper that details the application of algebraic topology to systemic risk modeling.
+
+---
+
+### **A. Foundational Paper Draft**
+
+This is the complete, timestamped draft of the paper submitted for academic review.
+
+* **PDF File:** [`Cohomology-Engine-Paper-Draft.pdf`](./Cohomology-Engine-Paper-Draft.pdf)
+* **Source Files:** [`Cohomology-Engine-Paper-Source.zip`](./Cohomology-Engine-Paper-Source.zip)
+
+### **B. Core Implementation (Code)**
+
+* (Your existing notes on the Python/Rust code go here...)
+
 ### 🚀 Getting Started
 
 To run the "Shadow Lab" locally:
