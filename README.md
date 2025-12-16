@@ -10,7 +10,7 @@ This repository contains the reference implementation (Volume II) for the protoc
 * **`app.py`**: The "One-Drop" Dashboard. A Streamlit-based interface for visualizing the Sheaf Cohomology of incoming data packets.
 * **`requirements.txt`**: Dependency manifest.
 
-## 📚 Technical Documentation & Provenance
+## 📚 Technical Documentation and Provenance
 
 This repository houses not only the core implementation of the Cohomology Engine but also the foundational academic paper that details the application of algebraic topology to systemic risk modeling.
 
