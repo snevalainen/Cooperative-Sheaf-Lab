@@ -19,7 +19,7 @@ This research formalizes the shift from adversarial, DAG-based logistics to a co
     * [Source Files](./The_Shape_of_Agreement_ECON_Source.zip)
 
 * **Technical Foundation (Math Version):** * [`The_Shape_of_Agreement_MATH.pdf`](./The_Shape_of_Agreement_MATH.pdf)
-    * Focus: Formal Proofs, Cellular Sheaves, and Simplicial Homology.
+    * Focus: Mathematical Foundations, Cellular Sheaves, and Simplicial Homology.
     * [Source Files](./Cohomology-Engine-Paper-Source.zip)
 
 ## 🚀 Getting Started
