@@ -12,10 +12,6 @@ This repository contains the reference implementation (Volume II) for the protoc
 
 ## 📚 Technical Documentation and Provenance
 
-This repository houses not only the core implementation of the Cohomology Engine but also the foundational academic paper that details the application of algebraic topology to systemic risk modeling.
-
-### **The Shape of Agreement: Academic Series**
-
 This research formalizes the shift from adversarial, DAG-based logistics to a cooperative, Sheaf-theoretic framework. It introduces the "Thermodynamic Mandate" for global economic alignment.
 
 * **Primary Strategic Framework (Econ Version):** * [`The_Shape_of_Agreement_ECON.pdf`](./The_Shape_of_Agreement_ECON.pdf) — *Submitted to SSRN, Dec 2025.*
