@@ -14,12 +14,17 @@ This repository contains the reference implementation (Volume II) for the protoc
 
 This repository houses not only the core implementation of the Cohomology Engine but also the foundational academic paper that details the application of algebraic topology to systemic risk modeling.
 
-### **Foundational Paper Draft**
+### **The Shape of Agreement: Academic Series**
 
-This is the complete, timestamped draft of the paper submitted for academic review.
+This research formalizes the shift from adversarial, DAG-based logistics to a cooperative, Sheaf-theoretic framework. It introduces the "Thermodynamic Mandate" for global economic alignment.
 
-* **PDF File:** [`Cohomology-Engine-Paper-Draft.pdf`](./Cohomology-Engine-Paper-Draft.pdf)
-* **Source Files:** [`Cohomology-Engine-Paper-Source.zip`](./Cohomology-Engine-Paper-Source.zip)
+* **Primary Strategic Framework (Econ Version):** * [`The_Shape_of_Agreement_ECON.pdf`](./The_Shape_of_Agreement_ECON.pdf) — *Submitted to SSRN, Dec 2025.*
+    * Focus: Nash Equilibrium, Dirichlet Energy, and Systemic Waste ($H^1$).
+    * [Source Files](./The_Shape_of_Agreement_ECON_Source.zip)
+
+* **Technical Foundation (Math Version):** * [`The_Shape_of_Agreement_MATH.pdf`](./The_Shape_of_Agreement_MATH.pdf)
+    * Focus: Formal Proofs, Cellular Sheaves, and Simplicial Homology.
+    * [Source Files](./Cohomology-Engine-Paper-Source.zip)
 
 ## 🚀 Getting Started
 
