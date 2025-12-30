@@ -39,9 +39,7 @@ To run the "Shadow Lab" locally:
     streamlit run app.py
     ```
 
-┌──────────────────────────────────────────────────────────────────┐
-│  ⚠️  NOTICE: PROPRIETARY IMPLEMENTATION & CORE AUTOMATION        │
-└──────────────────────────────────────────────────────────────────┘
+⚠️  NOTICE: PROPRIETARY IMPLEMENTATION & CORE AUTOMATION
 
 While this project (The Shape of Agreement/Project White Piece/Black River Systems) provides an open-source framework for 
 the Quaternionic Sheaf Laplacian (Section 6 of the GitBook), the 
