@@ -39,6 +39,29 @@ To run the "Shadow Lab" locally:
     streamlit run app.py
     ```
 
+┌──────────────────────────────────────────────────────────────────┐
+│  ⚠️  NOTICE: PROPRIETARY IMPLEMENTATION & CORE AUTOMATION        │
+└──────────────────────────────────────────────────────────────────┘
+
+While this project (The Shape of Agreement/Project White Piece/Black River Systems) provides an open-source framework for 
+the Quaternionic Sheaf Laplacian (Section 6 of the GitBook), the 
+following components are proprietary and excluded from this repository:
+
+1. THE STITCHING LAYER SEEDS: The deterministic basis-generation 
+   algorithms and salt-distribution protocols used for production-
+   grade data obfuscation.
+
+2. GLOBAL SECTION RESOLVERS: The private, high-performance Slerp 
+   optimizers used to align multi-party logistic networks at scale.
+
+3. LEGACY ADAPTER INTERFACES: The secure handshake protocols 
+   designed for specific Tier-1 ERP and TMS integrations.
+
+The mathematical definitions provided herein are for academic 
+validation and interoperability testing. Production-grade deployment 
+requires access to the White Piece Core Engine. For institutional 
+partnership or pilot inquiries, please contact the Architect.
+
 ## 🧠 Theoretical Basis
 
 This code implements the **Cooperative Sheaf Protocol**:
