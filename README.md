@@ -11,7 +11,9 @@ Large Language Models as topological restriction maps.
 📂 REPOSITORY STRUCTURE
 
 • orchestrator.py: The backend daemon that performs the Observe Orient Decide Acta loop. It manages the H0 (Consensus) and H1 (Waste) streams.
+
 • app.py: The One Drop Dashboard. A Streamlit based interface for visualizing the Sheaf Cohomology of incoming data packets.
+
 • requirements.txt: Dependency manifest.
 
 📚 TECHNICAL DOCUMENTATION AND PROVENANCE
@@ -60,10 +62,14 @@ the Architect.
 🧠 THEORETICAL BASIS
 
 This code implements the Cooperative Sheaf Protocol.
+
 • Input. Unstructured text or CSV from a supply chain node.
+
 • Restriction Map (ρ). An LLM converts input to a strict JSON Schema.
+
 • Cohomology Check. If data fits the schema, it signals H0 (Agreement). 
   If data fails, it signals H1 (Waste).
+  
 • Auditor. Automated repair logic is applied to the Waste Stream.
 
 📝 CITATION
