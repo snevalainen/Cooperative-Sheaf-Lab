@@ -39,7 +39,7 @@ To run the "Shadow Lab" locally:
     streamlit run app.py
     ```
 
-⚠️  NOTICE: PROPRIETARY IMPLEMENTATION & CORE AUTOMATION
+⚠️  NOTICE: PROPRIETARY IMPLEMENTATION and CORE AUTOMATION
 
 While this project (The Shape of Agreement/Project White Piece/Black River Systems) provides an open-source framework for 
 the Quaternionic Sheaf Laplacian (as defined in the Technical Glossary and Mathematical Basis of the GitBook), the following components are proprietary and excluded from this repository:
