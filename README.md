@@ -1,6 +1,4 @@
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 THE SHAPE OF AGREEMENT: REFERENCE IMPLEMENTATION
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 Operationalizing Sheaf Theory for Cooperative Logistics.
 
