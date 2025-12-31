@@ -10,10 +10,8 @@ Large Language Models as topological restriction maps.
 
 📂 REPOSITORY STRUCTURE
 
-• orchestrator.py: The backend daemon that performs the Observe Orient 
-Decide Acta loop. It manages the H0 (Consensus) and H1 (Waste) streams.
-• app.py: The One Drop Dashboard. A Streamlit based interface for 
-visualizing the Sheaf Cohomology of incoming data packets.
+• orchestrator.py: The backend daemon that performs the Observe Orient Decide Acta loop. It manages the H0 (Consensus) and H1 (Waste) streams.
+• app.py: The One Drop Dashboard. A Streamlit based interface for visualizing the Sheaf Cohomology of incoming data packets.
 • requirements.txt: Dependency manifest.
 
 📚 TECHNICAL DOCUMENTATION AND PROVENANCE
