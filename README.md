@@ -23,9 +23,12 @@ logistics to a cooperative, Sheaf theoretic framework. It introduces
 the Thermodynamic Mandate for global economic alignment.
 
 • Primary Strategic Framework: The_Shape_of_Agreement_ECON.pdf
-Submitted to SSRN, Dec 2025. Focus: Nash Equilibrium and Dirichlet Energy.
+Submitted to SSRN, Dec 2025. 
+
+Focus: Nash Equilibrium and Dirichlet Energy.
 
 • Technical Foundation: The_Shape_of_Agreement_MATH.pdf
+
 Focus: Cellular Sheaves and Simplicial Homology.
 
 🚀 GETTING STARTED
