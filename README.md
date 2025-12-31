@@ -42,7 +42,7 @@ To run the "Shadow Lab" locally:
 ⚠️  NOTICE: PROPRIETARY IMPLEMENTATION & CORE AUTOMATION
 
 While this project (The Shape of Agreement/Project White Piece/Black River Systems) provides an open-source framework for 
-the Quaternionic Sheaf Laplacian (Section 6 of the GitBook), the following components are proprietary and excluded from this repository:
+the Quaternionic Sheaf Laplacian (as defined in the Technical Glossary and Mathematical Basis of the GitBook), the following components are proprietary and excluded from this repository:
 
 1. THE STITCHING LAYER SEEDS: The deterministic basis-generation algorithms and salt-distribution protocols used for production-grade data obfuscation.
 
