@@ -1,0 +1,11 @@
+{
+  "alpha": 500,
+  "j_friction": 0.25,
+  "k_friction": 0.0,
+  "status": "SIGNAL",
+  "_meta": {
+    "timestamp": "2026-01-02T01:10:21.090298",
+    "source": "UNIT_TEST",
+    "extraction_method": "HYBRID"
+  }
+}

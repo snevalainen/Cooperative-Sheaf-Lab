@@ -1,0 +1,11 @@
+{
+  "alpha": 500,
+  "j_friction": 0.0,
+  "k_friction": 0.0,
+  "status": "SIGNAL",
+  "_meta": {
+    "timestamp": "2026-01-02T20:15:17.285481",
+    "source": "DRIVER_MOBILE_APP",
+    "extraction_method": "HYBRID"
+  }
+}
