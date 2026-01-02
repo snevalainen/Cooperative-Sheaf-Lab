@@ -1,77 +1,88 @@
-# The Shape of Agreement: Reference Implementation
+THE SHAPE OF AGREEMENT: REFERENCE IMPLEMENTATION
 
-**Operationalizing Sheaf Theory for Cooperative Logistics.**
+Operationalizing Sheaf Theory for Cooperative Logistics.
 
-This repository contains the reference implementation (Volume II) for the protocol defined in the monograph *The Shape of Agreement*. It provides the "Stitching Layer" necessary to transform heterogeneous supply chain data into a coherent Simplicial Complex using Large Language Models as topological restriction maps.
+This repository contains the reference implementation (Volume II) for 
+the protocol defined in the monograph The Shape of Agreement. It 
+provides the Stitching Layer necessary to transform heterogeneous 
+supply chain data into a coherent Simplicial Complex. It utilizes 
+Large Language Models as topological restriction maps.
 
-## 📂 Repository Structure
+📂 REPOSITORY STRUCTURE
 
-* **`orchestrator.py`**: The backend daemon that performs the "Observe-Orient-Decide-Act" loop. It manages the `H0` (Consensus) and `H1` (Waste) streams.
-* **`app.py`**: The "One-Drop" Dashboard. A Streamlit-based interface for visualizing the Sheaf Cohomology of incoming data packets.
-* **`requirements.txt`**: Dependency manifest.
+• orchestrator.py: The backend daemon that performs the Observe Orient Decide Acta loop. It manages the H0 (Consensus) and H1 (Waste) streams.
 
-## 📚 Technical Documentation and Provenance
+• app.py: The One Drop Dashboard. A Streamlit based interface for visualizing the Sheaf Cohomology of incoming data packets.
 
-This research formalizes the shift from adversarial, DAG-based logistics to a cooperative, Sheaf-theoretic framework. It introduces the "Thermodynamic Mandate" for global economic alignment.
+• requirements.txt: Dependency manifest.
 
-* **Primary Strategic Framework (Econ Version):** * [`The_Shape_of_Agreement_ECON.pdf`](./The_Shape_of_Agreement_ECON.pdf) — *Submitted to SSRN, Dec 2025.*
-    * Focus: Nash Equilibrium, Dirichlet Energy, and Systemic Waste ($H^1$).
-    * [Source Files](./The_Shape_of_Agreement_ECON_Source.zip)
+📚 TECHNICAL DOCUMENTATION AND PROVENANCE
 
-* **Technical Foundation (Math Version):** * [`The_Shape_of_Agreement_MATH.pdf`](./The_Shape_of_Agreement_MATH.pdf)
-    * Focus: Mathematical Foundations, Cellular Sheaves, and Simplicial Homology.
-    * [Source Files](./Cohomology-Engine-Paper-Source.zip)
+This research formalizes the shift from adversarial, DAG based 
+logistics to a cooperative, Sheaf theoretic framework. It introduces 
+the Thermodynamic Mandate for global economic alignment.
 
-## 🚀 Getting Started
+• Primary Strategic Framework: The_Shape_of_Agreement_ECON.pdf
 
-To run the "Shadow Lab" locally:
+Submitted to SSRN, Dec 2025. 
 
-1.  Clone the repository:
-    ```bash
-    git clone [https://github.com/snevalainen/cooperative-sheaf-lab.git](https://github.com/snevalainen/cooperative-sheaf-lab.git)
-    ```
-2.  Install dependencies:
-    ```bash
-    pip install -r requirements.txt
-    ```
-3.  Run the Dashboard:
-    ```bash
-    streamlit run app.py
-    ```
+Focus: Nash Equilibrium and Dirichlet Energy.
 
-⚠️  NOTICE: PROPRIETARY IMPLEMENTATION & CORE AUTOMATION
+• Technical Foundation: The_Shape_of_Agreement_MATH.pdf
 
-While this project (The Shape of Agreement/Project White Piece/Black River Systems) provides an open-source framework for 
-the Quaternionic Sheaf Laplacian (Section 6 of the GitBook), the following components are proprietary and excluded from this repository:
+Focus: Cellular Sheaves and Simplicial Homology.
 
-1. THE STITCHING LAYER SEEDS: The deterministic basis-generation algorithms and salt-distribution protocols used for production-grade data obfuscation.
+🚀 GETTING STARTED
 
-2. GLOBAL SECTION RESOLVERS: The private, high-performance Slerp optimizers used to align multi-party logistic networks at scale.
+To run the Shadow Lab locally.
+1. Clone the repository.
+   git clone https://github.com/snevalainen/cooperative-sheaf-lab.git
+2. Install dependencies.
+   pip install -r requirements.txt
+3. Run the Dashboard.
+   streamlit run app.py
 
-3. LEGACY ADAPTER INTERFACES: The secure handshake protocols designed for specific Tier-1 ERP and TMS integrations.
+⚠️ NOTICE: PROPRIETARY IMPLEMENTATION AND CORE AUTOMATION
 
-The mathematical definitions provided herein are for academic validation and interoperability testing. Production-grade deployment 
-requires access to the White Piece Core Engine. For institutional partnership or pilot inquiries, please contact the Architect.
+While this project provides an open source framework for the 
+Quaternionic Sheaf Laplacian (defined in the Technical Glossary 
+and Mathematical Basis of the GitBook). The following components 
+are proprietary and excluded from this repository.
 
-## 🧠 Theoretical Basis
+1. THE STITCHING LAYER SEEDS. The deterministic basis generation 
+   algorithms and salt distribution protocols used for production 
+   grade data obfuscation.
+2. GLOBAL SECTION RESOLVERS. The private and high performance Slerp 
+   optimizers used to align multi party logistic networks at scale.
+3. LEGACY ADAPTER INTERFACES. The secure handshake protocols 
+   designed for specific Tier 1 ERP and TMS integrations.
 
-This code implements the **Cooperative Sheaf Protocol**:
-1.  **Input:** Unstructured text/CSV from a supply chain node.
-2.  **Restriction Map ($\rho$):** An LLM converts input to a strict JSON Schema.
-3.  **Cohomology Check:**
-    * If data fits the schema $\rightarrow$ Signal ($H^0$).
-    * If data fails $\rightarrow$ Waste ($H^1$).
-4.  **Auditor:** Automated repair logic applied to the Waste Stream.
+The mathematical definitions provided herein are for academic 
+validation and interoperability testing. Production grade 
+deployment requires access to the White Piece Core Engine. For 
+institutional partnership or pilot inquiries. Please contact 
+the Architect.
 
-## 📝 Citation
+🧠 THEORETICAL BASIS
 
-If you use this protocol in your research, please cite as:
+This code implements the Cooperative Sheaf Protocol.
 
-> **Nevalainen, S. (2025).** *The Shape of Agreement: Topological Foundations for Cooperative Logistics.* Black River Systems Technical Report.
+• Input. Unstructured text or CSV from a supply chain node.
 
-**BibTeX:**
+• Restriction Map (ρ). An LLM converts input to a strict JSON Schema.
 
-```bibtex
+• Cohomology Check. If data fits the schema, it signals H0 (Agreement). 
+  If data fails, it signals H1 (Waste).
+  
+• Auditor. Automated repair logic is applied to the Waste Stream.
+
+📝 CITATION
+
+If you use this protocol in your research. Please cite as follows.
+
+Nevalainen, S. (2025). The Shape of Agreement: Topological Foundations 
+for Cooperative Logistics. Black River Systems Technical Report.
+
 @techreport{nevalainen2025shape,
   title={The Shape of Agreement: Topological Foundations for Cooperative Logistics},
   author={Nevalainen, Shawn},
@@ -79,6 +90,4 @@ If you use this protocol in your research, please cite as:
   institution={Black River Systems},
   month={December}
 }
-
----
-*Status: Experimental / Proof of Concept.*
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
